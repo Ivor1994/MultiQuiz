@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="Incorrect">Incorrect!!</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+
+    <!--
+     <string name="question_content">Which team is from England?</string>
+     <array name="answers">
+         <item>Swansea City</item>
+         <item>Cardiff City</item>
+         <item>Wigan Athletic</item>
+         <item>Cork city</item>
+     </array>
+     <integer name="correct_answer">2</integer>
+     -->
+
+    <array name="all_question">
+        <item>Which team is from England?;Swansea City;Cardiff City;*Wigan Athletic;Corck City</item>
+        <item>Champions League last winner?;F.C.Barcelona;*Real Madrid;Bayern Munich;Juventus</item>
+    </array>
+
+</resources>
